@@ -37,52 +37,36 @@ Escoge lo que más se acomode a tu negocio y nosotros nos encargamos del resto.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-monitor.svg" width="44" alt="">
-      <h3>Páginas web</h3>
-      Una web a medida que explica bien lo que haces, se ve perfecta en el móvil y pone fácil que te llamen o te escriban.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-bag.svg" width="44" alt="">
-      <h3>Tiendas online</h3>
-      Vende tus productos por internet con catálogo, fotos, carrito y pago con tarjeta, fácil para ti y para tus clientes.
-    </td>
+    <td width="64" align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-monitor.svg" width="44" alt=""></td>
+    <td><b>Páginas web</b><br>Una web a medida que explica bien lo que haces, se ve perfecta en el móvil y pone fácil que te llamen o te escriban.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-palette.svg" width="44" alt="">
-      <h3>Logo e imagen de marca</h3>
-      Tu logo, tus colores y un estilo propio para que tu negocio se reconozca y se vea profesional en todas partes.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-zap.svg" width="44" alt="">
-      <h3>Salir en Google</h3>
-      Hacemos que tu negocio aparezca cuando alguien de tu zona busca lo que ofreces, y que tu web cargue rápido.
-    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-bag.svg" width="44" alt=""></td>
+    <td><b>Tiendas online</b><br>Vende tus productos por internet con catálogo, fotos, carrito y pago con tarjeta, fácil para ti y para tus clientes.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-wrench.svg" width="44" alt="">
-      <h3>Mantenimiento web</h3>
-      Nos ocupamos de que tu web esté siempre al día: cambios, copias de seguridad y ayuda cuando la necesites.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-chart.svg" width="44" alt="">
-      <h3>Saber qué funciona</h3>
-      Te enseñamos cuánta gente visita tu web y qué servicios escogen más tus clientes, para mejorar con datos reales.
-    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-palette.svg" width="44" alt=""></td>
+    <td><b>Logo e imagen de marca</b><br>Tu logo, tus colores y un estilo propio para que tu negocio se reconozca y se vea profesional en todas partes.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-layout.svg" width="44" alt="">
-      <h3>Herramientas a medida</h3>
-      Una zona privada para llevar clientes, pedidos, reservas o el inventario desde el móvil o el ordenador.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-sparkles.svg" width="44" alt="">
-      <h3>Automatización e IA</h3>
-      Que las tareas repetitivas se hagan solas: responder preguntas, preparar presupuestos o enviar avisos.
-    </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-zap.svg" width="44" alt=""></td>
+    <td><b>Salir en Google</b><br>Hacemos que tu negocio aparezca cuando alguien de tu zona busca lo que ofreces, y que tu web cargue rápido.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-wrench.svg" width="44" alt=""></td>
+    <td><b>Mantenimiento web</b><br>Nos ocupamos de que tu web esté siempre al día: cambios, copias de seguridad y ayuda cuando la necesites.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-chart.svg" width="44" alt=""></td>
+    <td><b>Saber qué funciona</b><br>Te enseñamos cuánta gente visita tu web y qué servicios escogen más tus clientes, para mejorar con datos reales.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-layout.svg" width="44" alt=""></td>
+    <td><b>Herramientas a medida</b><br>Una zona privada para llevar clientes, pedidos, reservas o el inventario desde el móvil o el ordenador.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-sparkles.svg" width="44" alt=""></td>
+    <td><b>Automatización e IA</b><br>Que las tareas repetitivas se hagan solas: responder preguntas, preparar presupuestos o enviar avisos.</td>
   </tr>
 </table>
 
