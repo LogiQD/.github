@@ -1,114 +1,166 @@
+<!-- Las imágenes van con URL absoluta: la app de GitHub del móvil no resuelve las rutas relativas. -->
+
 <div align="center">
 
 <a href="https://logiqd.me">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner-light.svg" alt="LogiQD — Páginas web que traen clientes a tu negocio" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/hero-light.svg">
+    <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/hero-light.png" alt="LogiQD — Páginas web que traen clientes a tu negocio. Presupuesto cerrado en 24 h, tu web lista en 2–3 semanas, sin permanencia." width="100%">
   </picture>
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/stats-light.svg">
+  <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/stats-light.png" alt="24 h para darte un presupuesto cerrado · 2–3 semanas por web · 100 % pensada para el móvil" width="100%">
+</picture>
+
+<br><br>
+
+<sub><b>SOBRE NOSOTROS</b></sub>
+
+## Quiénes somos
+
+Somos un equipo pequeño que ayuda a los negocios a dar el salto a internet y a quitarse de encima el trabajo repetitivo.<br>
+**Nada de agencias enormes ni de hablar cada vez con alguien distinto: hablas siempre con quien hace tu web.**
+
 <br>
 
-[![Web](https://img.shields.io/badge/logiqd.me-002B66?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logiqd.me)
-[![Email](https://img.shields.io/badge/hola@logiqd.me-FD7705?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@logiqd.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34613939162)
+<sub><b>SERVICIOS</b></sub>
+
+## Echa un vistazo a lo que podemos hacer por ti
+
+Escoge lo que más se acomode a tu negocio y nosotros nos encargamos del resto.
 
 </div>
 
-## 🐋 Quiénes somos
-
-Somos un **equipo pequeño de Barcelona** que ayuda a los negocios a dar el salto a internet: barberías, restaurantes, clínicas, tiendas, academias y profesionales que quieren que les encuentren y les escriban.
-
-Nada de agencias enormes ni de hablar cada vez con alguien distinto: **hablas directamente con quien construye tu proyecto**.
-
-## 🛠️ Qué hacemos
-
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🌐 Páginas web</h3>
-      Webs a medida que explican bien tu negocio, se ven perfectas en el móvil y facilitan que te contacten.
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-monitor.svg" width="44" alt="">
+      <h3>Páginas web</h3>
+      Una web a medida que explica bien lo que haces, se ve perfecta en el móvil y pone fácil que te llamen o te escriban.
     </td>
-    <td width="33%" valign="top">
-      <h3>🛒 Tiendas online</h3>
-      Catálogo, fotos, carrito y pago con tarjeta para vender por internet desde el primer día.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔎 Salir en Google</h3>
-      SEO local y webs rápidas para aparecer cuando alguien de tu zona busca lo que ofreces.
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-bag.svg" width="44" alt="">
+      <h3>Tiendas online</h3>
+      Vende tus productos por internet con catálogo, fotos, carrito y pago con tarjeta, fácil para ti y para tus clientes.
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🤖 Automatización e IA</h3>
-      Recepción con IA, respuestas automáticas, captación de leads y avisos que se envían solos.
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-palette.svg" width="44" alt="">
+      <h3>Logo e imagen de marca</h3>
+      Tu logo, tus colores y un estilo propio para que tu negocio se reconozca y se vea profesional en todas partes.
     </td>
-    <td width="33%" valign="top">
-      <h3>🧩 Herramientas a medida</h3>
-      Zonas privadas, pedidos, reservas o inventario, con paneles y gráficos sencillos.
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-zap.svg" width="44" alt="">
+      <h3>Salir en Google</h3>
+      Hacemos que tu negocio aparezca cuando alguien de tu zona busca lo que ofreces, y que tu web cargue rápido.
     </td>
-    <td width="33%" valign="top">
-      <h3>🔧 Mantenimiento</h3>
-      Cambios, copias de seguridad, vigilancia de la web y ayuda cuando la necesites.
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-wrench.svg" width="44" alt="">
+      <h3>Mantenimiento web</h3>
+      Nos ocupamos de que tu web esté siempre al día: cambios, copias de seguridad y ayuda cuando la necesites.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-chart.svg" width="44" alt="">
+      <h3>Saber qué funciona</h3>
+      Te enseñamos cuánta gente visita tu web y qué servicios escogen más tus clientes, para mejorar con datos reales.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-layout.svg" width="44" alt="">
+      <h3>Herramientas a medida</h3>
+      Una zona privada para llevar clientes, pedidos, reservas o el inventario desde el móvil o el ordenador.
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/icon-sparkles.svg" width="44" alt="">
+      <h3>Automatización e IA</h3>
+      Que las tareas repetitivas se hagan solas: responder preguntas, preparar presupuestos o enviar avisos.
     </td>
   </tr>
 </table>
 
-## 🍽️ Restaurant OS
-
-> **Digital cuando aporta comodidad. Humano siempre disponible.**
-
-Nuestro sistema para restaurantes: tus clientes **piden desde la mesa con un QR**, cocina y barra ven cada pedido en su pantalla, y cobrar o dividir la cuenta lleva segundos. Incluye reservas y lista de espera, sin descargar ninguna app — y quien prefiera la carta de papel y pedir al camarero puede seguir haciéndolo, con su pedido en la misma cuenta.
-
-## 🤝 Cómo trabajamos
-
-| | Paso | Qué significa para ti |
-|:-:|---|---|
-| **1** | **Cuéntanos tu proyecto** | Por WhatsApp, por correo o con el formulario. Sin compromiso. |
-| **2** | **Precio cerrado en 24&nbsp;h** | Sabes lo que cuesta y lo que incluye antes de empezar. Sin extras a mitad de camino. |
-| **3** | **Diseñamos y creamos** | Te enseñamos cómo quedará antes de terminarlo. |
-| **4** | **Lo revisamos contigo** | Cambiamos lo que haga falta hasta que te guste. |
-| **5** | **Lanzamiento** | Publicado con tu dominio, listo para que te encuentren. Tu web, en 2–3 semanas. |
-
-**Sin permanencia** · **Pensado para móvil** · **Nos encargamos de lo técnico**: hosting, dominio y publicación.
-
-## ⚙️ Con qué trabajamos
-
 <div align="center">
 
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+**[Ver todos los servicios →](https://logiqd.me/services)**
+
 <br>
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+<a href="https://logiqd.me/restaurant-os">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/restaurant-os.svg">
+    <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/restaurant-os.png" alt="Restaurant OS: ¿tienes un restaurante? Hemos hecho un sistema entero para ti" width="100%">
+  </picture>
+</a>
 
 </div>
 
-## 👋 El equipo
+Con **Restaurant OS** tus clientes piden desde la mesa con un código QR, la cocina y la barra ven cada pedido en su pantalla y cobrar o dividir la cuenta es cosa de segundos. También lleva las reservas y la lista de espera. Nadie tiene que descargarse nada.
 
-| [<img src="https://github.com/Elgeryy1.png?size=120" width="72" alt="Gerard"><br>**Gerard**](https://github.com/Elgeryy1) | [<img src="https://github.com/dc8306.png?size=120" width="72" alt="Dani"><br>**Dani**](https://github.com/dc8306) |
-|:-:|:-:|
-| Cofundador | Cofundador |
+Y si prefieren la carta de papel y pedirle al camarero, pueden seguir haciéndolo: su pedido acaba en la misma cuenta. **[Ver cómo funciona →](https://logiqd.me/restaurant-os)**
 
----
+<br>
 
 <div align="center">
 
-### ¿Tienes un negocio y quieres más clientes?
+## Cómo trabajamos
 
-**Cuéntanos qué necesitas y te decimos cómo hacerlo.**
+Te guiamos paso a paso para que tu web te traiga clientes y crezca contigo.<br>
+Tú nos cuentas cómo es tu negocio y nosotros nos encargamos del resto.
 
-[**logiqd.me**](https://logiqd.me) · [hola@logiqd.me](mailto:hola@logiqd.me) · [WhatsApp](https://wa.me/34613939162)
+</div>
 
-<sub>Hecho con 🧡 en Barcelona</sub>
+<table>
+  <tr>
+    <td width="56" align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/step-1.svg" width="40" alt="01"></td>
+    <td><b>Cuéntanos tu proyecto</b><br>Por WhatsApp, por correo o con el formulario. Sin compromiso.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/step-2.svg" width="40" alt="02"></td>
+    <td><b>Te damos un precio cerrado</b><br>En 24 h laborables sabes lo que cuesta y lo que incluye.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/step-3.svg" width="40" alt="03"></td>
+    <td><b>Diseñamos y creamos tu web</b><br>Te enseñamos cómo quedará antes de terminarla.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/step-4.svg" width="40" alt="04"></td>
+    <td><b>La revisamos contigo, detalle a detalle</b><br>Cambiamos lo que haga falta hasta que te guste.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/step-5.svg" width="40" alt="05"></td>
+    <td><b>Lanzamos tu proyecto al mundo</b><br>Publicada con tu dominio, lista para que te encuentren y te escriban.</td>
+  </tr>
+</table>
+
+<p align="center">Y después, <b>mantenimiento mensual, sin preocupaciones</b>.</p>
+
+<br>
+
+<div align="center">
+
+<a href="https://logiqd.me/contact">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/cta.svg">
+    <img src="https://raw.githubusercontent.com/LogiQD/.github/main/profile/assets/cta.png" alt="¿Tienes un negocio? Cuéntanos qué necesitas y te decimos cómo hacerlo." width="100%">
+  </picture>
+</a>
+
+<br><br>
+
+[![Pedir presupuesto](https://img.shields.io/badge/Pedir_presupuesto-F97316?style=for-the-badge)](https://logiqd.me/contact)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34613939162)
+[![contacto@logiqd.me](https://img.shields.io/badge/contacto@logiqd.me-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@logiqd.me)
+[![logiqd.me](https://img.shields.io/badge/logiqd.me-043D87?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logiqd.me)
+
+<br>
+
+<sub>Barcelona y alrededores · Toda España, en remoto · Hecho con 🧡 en España</sub>
 
 </div>
